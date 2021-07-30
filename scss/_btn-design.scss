@@ -1,0 +1,11 @@
+.btn-send{
+    @include padding(10px, 30px, 10px, 30px);
+    margin-top: 15px;
+    margin-bottom: 50px;
+    background-color: $fond-primaire;
+    border-color: $bourdure-primaire;
+    border-radius: 10px;
+    color: $txt-bleu;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1em;
+}
